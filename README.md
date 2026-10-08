@@ -34,7 +34,6 @@ Behavior, health, society, emotions, decisions: these are the questions that pul
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,sklearn,pytorch,git,docker,gcp,githubactions&perline=8&theme=dark#gh-dark-mode-only" alt="Python, PostgreSQL, scikit-learn, PyTorch, Git, Docker, Google Cloud, GitHub Actions" />
 <img src="https://skillicons.dev/icons?i=python,postgres,sklearn,pytorch,git,docker,gcp,githubactions&perline=8&theme=light#gh-light-mode-only" alt="Python, PostgreSQL, scikit-learn, PyTorch, Git, Docker, Google Cloud, GitHub Actions" />
 
 </div>
